@@ -2,7 +2,7 @@ Hi 👋 The name is Sai Phani
 =================================
 
 Student @ Stony Brook University <br>
-Alumnus of Microsoft, Hyderabad & Amrita, Coimbatore <br>
+Alumnus of Microsoft, Hyderabad & Amrita University, Coimbatore <br>
 Ai enthusiast | Competitive Programmer | Full Stack Developer
 ------------------------
 # About Me:

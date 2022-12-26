@@ -6,7 +6,15 @@ Alumnus of Microsoft, Hyderabad & Amrita University, Coimbatore <br>
 Ai enthusiast | Competitive Programmer | Full Stack Developer
 ------------------------
 # About Me:
-My name is Sai Phani Pallapothu
+I am a grad student from Stony Brook University, New York, pursuing my MS in computer science. I have previously worked at Microsoft as a Software Development Engineer, after completing my BTech in computer science from Amrita School of Engineering, Coimbatore, India. I love exploring latest tech, learning something new everyday. Here are some areas I am passionate about: 
+
+> Computer Vision
+> Robotics
+> Natural Language Processing
+> Reinforcement Learning
+> Internet of Things
+> Full Stack Development 
+> Competitive Programming
 
 
 # 💻 Tech Stack:

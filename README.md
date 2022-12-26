@@ -8,13 +8,18 @@ Ai enthusiast | Competitive Programmer | Full Stack Developer
 # About Me:
 I am a grad student from Stony Brook University, New York, pursuing my MS in computer science. I have previously worked at Microsoft as a Software Development Engineer, after completing my BTech in computer science from Amrita School of Engineering, Coimbatore, India. I love exploring latest tech, learning something new everyday. Here are some areas I am passionate about: 
 
-> Computer Vision
-> Robotics
-> Natural Language Processing
-> Reinforcement Learning
-> Internet of Things
-> Full Stack Development 
-> Competitive Programming
+> * Computer Vision <br>
+> * Robotics <br>
+> * Natural Language Processing <br>
+> * Reinforcement Learning <br>
+> * Internet of Things <br>
+> * Full Stack Development <br>
+> * Competitive Programming <br>
+
+
+
+
+
 
 
 # 💻 Tech Stack:
